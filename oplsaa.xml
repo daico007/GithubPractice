@@ -843,6 +843,7 @@
   <Type name="MW" class="MW" mass="0.0"/>
   <Type name="HW_tip4pew" class="HW_tip4pew" element="H" mass="1.008"/>
   <Type name="OW_tip4pew" class="OW_tip4pew" element="O" mass="16.0"/>
+  <Type name="OW_tip4pew" class="OW_tip4pew" element="O" mass="16.0"/>
  </AtomTypes>
  <HarmonicBondForce>
   <Bond class1="OW" class2="HW" length="0.09572" k="502080.0"/>
